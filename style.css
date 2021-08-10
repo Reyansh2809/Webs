@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(45deg, rgba(245,28,5,1) 14%, #ef6e0ca2 40%, rgba(255,238,0,0.4321078773306197) 59%, rgba(255,0,53,0.2976540958180147) 75%);  
+   color:royalblue; 
+   font-size:larger;  
+}
+img{
+width:250px;
+    
+}
